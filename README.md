@@ -32,10 +32,5 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![UE](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
-
-# 👨‍💻 Profile
-![Github Stats](https://github-readme-stats.vercel.app/api?username=n3ondev&show_icons=true&theme=tokyonight)
-![Info](https://github-readme-streak-stats.herokuapp.com/?user=n3ondev&theme=tokyonight)
-
 ![](https://komarev.com/ghpvc/?username=n3ondev&color=50CF7E&style=flat-square)
 
